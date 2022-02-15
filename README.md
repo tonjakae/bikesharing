@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 For this analysis, I’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I’ll create a set of visualizations to:
 
 Show the length of time that bikes are checked out for all riders and genders
