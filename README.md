@@ -10,5 +10,7 @@ What I'm Creating
 This new assignment consists of two technical analysis deliverables and a written report to present my results. I will submit the following:
 
 Deliverable 1: Change Trip Duration to a Datetime Format
+
 Deliverable 2: Create Visualizations for the Trip Analysis
+
 Deliverable 3: Create a Story and Report for the Final Presentation
