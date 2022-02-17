@@ -14,3 +14,8 @@ Deliverable 1: Change Trip Duration to a Datetime Format
 Deliverable 2: Create Visualizations for the Trip Analysis
 
 Deliverable 3: Create a Story and Report for the Final Presentation
+
+# Analysis
+[Link to dashboard 1](https://public.tableau.com/app/profile/tonjakae/viz/Challenge14_16449821482570/CheckoutTimes?publish=yes)
+
+[Link to dashboard 2](https://public.tableau.com/app/profile/tonjakae/viz/Challenge14v_2/BikeUsageAnalysis)
